@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.main{
+    background-image: url("https://ik.imagekit.io/ceylugdxx/New%20Folder/sea-ocean.webp?updatedAt=1750935996902");
+    height: 762px;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 600px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.in{
+    background-color: white;
+    font-family: "Roboto", sans-serif ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+}
+
+button{
+    background-color: #09C1EB;
+    color: white;
+    border-radius: 30px;
+    padding: 8px;
+    width: 120px;
+    border: 0px;
+    font-size: 12px;
+}   
+
+h1{
+    font-size: 28px;
+    padding: 10px;
+}
+
+p{
+    font-size: 12px;
+    Padding: 5px;
+}
